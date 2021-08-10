@@ -1,1 +1,2 @@
-# aryaveer
+# synchronousBallMovement
+Ball moving synchronously
